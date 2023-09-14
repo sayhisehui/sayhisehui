@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 저는 손세희입니다.
 
 <!--
 **sayhisehui/sayhisehui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
